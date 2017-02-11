@@ -114,18 +114,13 @@ table {
     align-items:center;
 }
 
-.logo-header-contaier{
-    display:flex;
-    flex-wrap:wrap;
-    justify-content:space-between;
-}
+
 
 .header{
     background-color:lightgreen;
     z-index:999;
     display:block;
     display:flex;
-    flex-wrap:wrap;
     
 }
 
